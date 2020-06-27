@@ -28,4 +28,3 @@ spec:
       protocol: TCP
       port: 4005
       targetPort: 4005
-        
